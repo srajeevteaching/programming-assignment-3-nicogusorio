@@ -60,3 +60,6 @@ To Moodle:
 To github:
   Your .py file
 Remember to double check on github.com that your files pushed. If they didn’t, you need to push them. I can only see what is on github.com, not what is only on your computer.
+
+
+
